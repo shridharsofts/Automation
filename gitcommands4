@@ -1,0 +1,6 @@
+9.) To delete both the branch and local and remote repository
+
+git push -d <remote_name> <branch_name>
+git branch -d <branch_name>
+git push -d origin <branch_name>------------------in most cases the remote will be origin
+git branch -d branch_name-----------------------------to delete branch
