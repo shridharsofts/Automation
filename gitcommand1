@@ -1,0 +1,8 @@
+1.) create a new repository on the command line
+
+echo "# Aws-lambda" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shridharsofts/Aws-lambda.git
+git push -u origin master
