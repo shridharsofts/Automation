@@ -1,0 +1,13 @@
+3.) pushing particular files to git
+
+git commit file1 file3 -m "my message"
+
+4.) remove files in local
+
+git rm <file1> <file2> <file3>…
+       commit your chnages
+
+git commit -m "removing files"
+       push your chnages to github
+
+git push
